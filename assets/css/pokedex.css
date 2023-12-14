@@ -5,79 +5,78 @@
   margin: 0;
 }
 
-.normal{
-  background-color: #a6a877
+.normal {
+  background: linear-gradient(to bottom, #a6a877, #7e7e58);
 }
 
 .grass{
-  background-color: #77c850
+  background: linear-gradient(to bottom, #77c850, #387c34)
 
 }
 
 .fire {
-  background-color: #ee7f30
+  background: linear-gradient(to bottom, #ee7f30, #d06030);
 }
 
-.water{
-  background-color: #678fee
+.water {
+  background: linear-gradient(to bottom, #678fee, #3b5998);
 }
 
-.electric{
-  background-color: #f7cf2e
+.electric {
+  background: linear-gradient(to bottom, #f7cf2e, #f3a611);
 }
 
 .ice {
-  background-color: #98d5d7
+  background: linear-gradient(to bottom, #98d5d7, #5eb3b4);
 }
 
-.ground{
-  background-color: #dfbf69
+.ground {
+  background: linear-gradient(to bottom, #dfbf69, #b0974a);
 }
 
-.flying{
-  background-color: #a98ff0
+.flying {
+  background: linear-gradient(to bottom, #a98ff0, #6d5db6);
 }
 
-.poison{
-  background-color: #a040a0
+.poison {
+  background: linear-gradient(to bottom, #a040a0, #702c70);
 }
 
-.fighting{
-  background-color: #bf3029
+.fighting {
+  background: linear-gradient(to bottom, #bf3029, #8b1f1a);
 }
 
-.psychic{
-  background-color: #f65687
+.psychic {
+  background: linear-gradient(to bottom, #f65687, #d93b66);
 }
 
 .dark {
-  background-color: #725847
+  background: linear-gradient(to bottom, #725847, #504032);
 }
 
 .rock {
-  background-color: #b8a137
+  background: linear-gradient(to bottom, #b8a137, #7a6c23);
 }
 
 .bug {
-  background-color: #a8b720
+  background: linear-gradient(to bottom, #a8b720, #6c7a2c);
 }
 
-.ghost{
-  background-color: #6e5896
+.ghost {
+  background: linear-gradient(to bottom, #6e5896, #463455);
 }
 
-.steel{
-  background-color: #b9b7cf
+.steel {
+  background: linear-gradient(to bottom, #b9b7cf, #848396);
 }
 
-.dragon{
-  background-color:  #6f38f6
+.dragon {
+  background: linear-gradient(to bottom, #6f38f6, #4329b3);
 }
 
-.fairy{
-  background-color: #f9aec7
+.fairy {
+  background: linear-gradient(to bottom, #f9aec7, #e173a3);
 }
-
 
 .pokemons {
   list-style: none;
